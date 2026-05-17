@@ -18,7 +18,7 @@
 
 ---
 
-### ⚛️ Engineering Architecture (技术栈矩阵)
+### ⚛️ Engineering Architecture 
 > *Building systems from theoretical physics down to bare-metal hardware.*
 
 **🧠 The Brain: AI & Logic**
@@ -45,13 +45,13 @@
 
 ---
 
-### 🏆 Engineering Milestones (工程里程碑)
+### 🏆 Engineering Milestones
 
 | Award / Project | Domain | Description |
 | :--- | :--- | :--- |
-| **🥇 1st Prize** | Spatial Computing | **"Lingjing Chuangxiang" AR-VR Challenge** - Immersive Unity development. |
-| **🥈 2nd Prize** | AI Agents | **3rd Weiyang City AI Competition** - Engineered agentic workflows. |
-| **🚧 Building** | Web Arch | Deploying `disboundary.top` using modern web frameworks. |
+| **1st Prize** | Spatial Computing | **"Lingjing Chuangxiang" AR-VR Challenge** - Immersive Unity development. |
+| **2nd Prize** | AI Agents | **3rd Weiyang City AI Competition** - Engineered agentic workflows. |
+| **Building** | Web Arch | Deploying `disboundary.top` using modern web frameworks. |
 
 ---
 
