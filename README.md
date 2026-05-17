@@ -58,8 +58,8 @@
 ### 📊 System Telemetry (实时系统遥测)
 <div align="center">
   <!-- 替换 [YourGitHubName] 为你的 GitHub ID -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubName]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubName]&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[DaiShiBo369]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[DaiShiBo369]&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <!-- 底部留白与签名 -->
