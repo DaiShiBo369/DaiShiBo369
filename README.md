@@ -50,8 +50,10 @@
 | Award / Project | Domain | Description |
 | :--- | :--- | :--- |
 | **1st Prize** | Spatial Computing | **"Lingjing Chuangxiang" AR-VR Challenge** - Immersive Unity development. |
-| **2nd Prize** | AI Agents | **3rd Weiyang City AI Competition** - Engineered agentic workflows. |
-| **Building** | Web Arch | Deploying `disboundary.top` using modern web frameworks. |
+| **1st Prize** | Problem_Solving AI Agent  | **"4th Weiyang City AI Competition** - Full-Stack AI Agent Solutions for Problem-Solving. |
+| **2nd Prize** | Vision AI Agent | **3rd Weiyang City AI Competition** - Engineered agentic workflows. |
+| **Building** | Personal Tech Blog | Deploying `disboundary.top` using modern web frameworks. |
+| **Building** | Online test for Occupation Option | Deploying `wyti.top` with realistic data from interviews. |
 
 ---
 
